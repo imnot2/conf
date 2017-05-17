@@ -1,1 +1,1 @@
-### axis nginx config for MAC
+### Axis nginx config for MAC
